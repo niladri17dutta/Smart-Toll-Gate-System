@@ -132,8 +132,7 @@ Smart Toll Gate
 
 ## 👨‍💻 Author
 
-Embedded Systems Project
-Smart Infrastructure Automation Prototype
+Niladri Dutta
 
 ---
 
