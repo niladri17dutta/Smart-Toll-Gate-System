@@ -70,7 +70,7 @@ Invalid or unrealistic readings are ignored to improve system stability.
 
 ## 📂 Project Structure
 
-Smart-Toll-Gate/
+Smart-Toll-Gate
     │
     ├── SmartTollGate.ino
     ├── README.md
